@@ -3,11 +3,11 @@ learn mogo
 
 ## Important terms
 
-| SQL     | Mongo           |
-|---------|-----------------|
+|#SQL       |#Mongo         |
+|-----------|---------------|
 |Database 	|Database       |
 |Tables	    |Collections    |
 |Rows	    |Document       |
 |Index	    |Index          |   
 |Columns 	|field          |
-|---------|-----------------|
+
