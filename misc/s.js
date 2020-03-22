@@ -1,0 +1,6 @@
+db.animals.save({ _id: 1, name: 'cat', tags:['land','cute'] ,info:{type:'mammal', color:'red' }})
+db.animals.save({ _id: 2, name: 'rabbit', tags:['land','cute'],info:{type:'mammal', color:'white' } })
+db.animals.save({ _id: 3, name: 'shark', tags:['ocean'] ,info:{type:'fish', color:'grey' }})
+db.animals.save({ _id: 4, name: 'dolphin', tags:['ocean','cute'] ,info:{type:'mammal', color:'grey', canFly: null }})
+db.animals.save({ _id: 5, name: 'penguin', tags:['land','ocean','cute'] ,info:{type:'bird', canFly:false }})
+db.animals.save({ _id: 6, name: 'duck', tags:['land','cute'], info: {type:'bird', canFly: true} })
