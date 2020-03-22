@@ -1,0 +1,2 @@
+# mogoPrac
+learn mogo 
